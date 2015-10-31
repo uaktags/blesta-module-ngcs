@@ -1,0 +1,20 @@
+{
+    "version": "0.1.0",
+    "name": "1&1 NGCS",
+    "description": "Module for selling 1&1 Cloud Servers!",
+    "authors": [
+        {
+            "name": "Tim Garrity",
+            "url": "https://www.timgarrity.me"
+        }
+    ],
+    "service": {
+        "name_key": "ngcs"
+    },
+    "module": {
+        "row": "ngcs-cloud",
+        "rows": "ngcs-clouds",
+        "group": "NGCSClouds",
+        "row_key": "ngcs-cloud-row"
+    }
+}
